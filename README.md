@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eclairvanna
+- 👋 Hi, I’m erin
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning software engineering
 
